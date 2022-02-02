@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geometr
 - 👀 I’m interested in programming, and game development especially
 - 🌱 I’m currently learning java/libGDX, python/pyGame, C++/SDL2
-- 💞️ I’m looking to collaborate on calibre plugin for my library
+- 💞️ I’m looking to collaborate on calibre plugin for my home library
 - 📫 geometr.sinc@gmail.com
 
 <!---
